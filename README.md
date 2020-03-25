@@ -1,4 +1,4 @@
-# Fumer
+# SNumer
 
 ```Docker
 docker run -dit --name SiwatNumer -p 80:80 -v "${pwd}:/var/www/html/" php:7.4.3-apache
